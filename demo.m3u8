@@ -1,13 +1,13 @@
 #EXTM3U
 
-#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="stereo",LANGUAGE="en",NAME="English",DEFAULT=YES,AUTOSELECT=YES,URI="https://prime.vflix.xyz/cors?url=https://s03.nm-cdn.top/files/81675430/a/0/0.m3u8"
-#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="stereo",LANGUAGE="dubbing",NAME="Dubbing",DEFAULT=NO,AUTOSELECT=YES,URI="https://prime.vflix.xyz/cors?url=https://s03.nm-cdn.top/files/81675430/a/1/1.m3u8"
+#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="stereo",LANGUAGE="en",NAME="English",DEFAULT=YES,AUTOSELECT=YES,URI="audio/stereo/en/128kbit.m3u8"
+#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="stereo",LANGUAGE="dubbing",NAME="Dubbing",DEFAULT=NO,AUTOSELECT=YES,URI="audio/stereo/none/128kbit.m3u8"
 
 
 
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=6214307,CODECS="avc1.4d4028,mp4a.40.2",AUDIO="surround",RESOLUTION=1921x818,SUBTITLES="subs"
-https://iosmirror.vflix.xyz/m3u8-proxy?url=https%3A%2F%2Fpcmirror.cc%2Fhls%2F81675430.m3u8%3Fin%3D36d100d57cfcafe7d0922e3cd7ab938a%3A%3A63c732d9fa2d5c00c387617b63798ed0%3A%3A1734877235%3A%3Ani&headers=%7B%22referer%22%3A%22https%3A%2F%2Fiosmirror.cc%2F%22%7D
+video/6000kbit.m3u8
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=10285391,CODECS="avc1.4d4033,mp4a.40.2",AUDIO="surround",RESOLUTION=4096x1744,SUBTITLES="subs"
-https://iosmirror.vflix.xyz/m3u8-proxy?url=https%3A%2F%2Fs03.nm-cdn.top%2Ffiles%2F81675430%2F720p%2F720p.m3u8%3Fin%3D36d100d57cfcafe7d0922e3cd7ab938a%3A%3A1097fc1f0b9316f43fedd9ff4349582a%3A%3A1734878333%3A%3Ani&headers=%7B%22referer%22%3A%22https%3A%2F%2Fiosmirror.cc%2F%22%7D
+video/10000kbit.m3u8
 
 
